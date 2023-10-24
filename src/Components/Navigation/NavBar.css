@@ -1,0 +1,26 @@
+
+ /* NavBar.css */
+.navbar-container {
+    background-color: #FFA500;
+    color: black;
+    z-index: 10;
+  }
+  
+  .navbar-brand {
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+  }
+  
+  /* Hover effect for the navbar links */
+  .nav-link:hover {
+    background-color: #0048ff;
+    color: black;
+  }
+   
